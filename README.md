@@ -1,5 +1,5 @@
 # Factocord3-Integration
-[Mod on the Mod Portal](#) (TODO!)
+[Mod on the Mod Portal](https://mods.factorio.com/mod/Factocord3-Integration)
 
 ## Features:
 
