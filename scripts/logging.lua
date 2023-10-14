@@ -23,8 +23,8 @@ local function on_research_finished(event)
 	PrintToDiscord(":science_pack: Research finished: " .. research_name .. " " .. (event.research.level or ""))
 end
 
-local function on_player_left_game(e)
-	local p = game.players[e.player_index];
+local function on_player_left_game(event)
+	local p = game.players[event.player_index];
 	local reason
 	if event.reason == defines.disconnect_reason.quit then
 		reason = "quit"
