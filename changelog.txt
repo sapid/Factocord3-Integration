@@ -1,14 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.4
-Date: ????
+Version: 1.0.0
+Date: 2023-10-13
   Changes:
----------------------------------------------------------------------------------------------------
-Version: 1.0.3
-Date: 2021-06-16
-  Bugfixes:
-    - Fixed a crash when players join and leave
----------------------------------------------------------------------------------------------------
-Version: 1.0.2
-Date: 2021-06-16
-  Changes:
-    - Updated to be compatible with new version of JammyBot
+    - Initial adaptation from Factorio-Discord-BotIntegration
